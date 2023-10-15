@@ -1,0 +1,3 @@
+Contact Book Project
+
+I was asked to build a contact book application which stores details inside a database. The requirements of the program were that it needed to allow users to add, delete and modify contact records to the database. As well as this, the program needed to have a search system so that the user could search for contact records within the database. For user experience, the program had to have a working menu system with basic CRUD features and it should have an option for the user to output all details stored in the database. The program was written in Python and SQLite. It makes use of a text-based GUI for the menu. It is very readable and user-friendly. I used a db (database) file to store the contact records.
